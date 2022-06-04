@@ -15,3 +15,5 @@ Currenly the swim club doesnt have a shared calendar for all swim events in the 
 The aim is to federate these as a stand-alone web component or individual federated component that can be consumed into the existing page via iframes.
 
 ## App architecture
+
+![App architecture](https://raw.githubusercontent.com/shaarang1010/mfe-swimapp/master/architecture.png)
