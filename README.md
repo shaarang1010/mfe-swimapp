@@ -1,5 +1,7 @@
 # Microfrontend app for swim meet events @ Ringwood Swim Club and Masters Swimming Victoria
 
+_Note: This is WIP project as we are ironinng out some workflows on running session-heats._
+
 ## Stack
 
 - pnpm
